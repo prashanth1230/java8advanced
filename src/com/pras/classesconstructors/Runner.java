@@ -15,6 +15,22 @@ public class Runner {
     }
 
     /**
+     * @return raceID
+     */
+    public int getRaceID() {
+        return raceID;
+    }
+
+    /**
+     * Sets raceID
+     *
+     * @param raceID
+     */
+    public void setRaceID(int raceID) {
+        this.raceID = raceID;
+    }
+
+    /**
      * Make the runner perform sport
      *
      * @return Sport Action

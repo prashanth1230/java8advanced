@@ -1,4 +1,4 @@
-package com.pras.main;
+package com.pras.typesandvariables;
 
 public class TypesAndVariables {
 

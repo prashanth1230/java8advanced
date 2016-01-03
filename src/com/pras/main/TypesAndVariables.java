@@ -1,4 +1,4 @@
-package com.company;
+package com.pras.main;
 
 public class TypesAndVariables {
 
